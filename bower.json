@@ -1,0 +1,21 @@
+{
+  "name": "pwa-test",
+  "homepage": "https://github.com/chever/pwa",
+  "authors": [
+    "Kevin Knight <kevin.knight@nationaltrust.org.uk>"
+  ],
+  "description": "Progressive Web App test",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sw-toolbox": "^3.4.0"
+  }
+}
